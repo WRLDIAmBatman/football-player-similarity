@@ -1,0 +1,21 @@
+name,team,position,goals_per90,assists_per90,shots_per90,passes_per90,tackles_per90,dribbles_per90
+Joueur 01,Club A,FW,0.85,0.20,4.10,18.5,0.4,2.8
+Joueur 02,Club A,FW,0.72,0.15,3.60,22.0,0.5,1.9
+Joueur 03,Club B,FW,0.60,0.35,3.20,25.0,0.6,3.5
+Joueur 04,Club B,FW,0.48,0.10,2.90,20.0,0.3,1.2
+Joueur 05,Club C,FW,0.30,0.40,2.10,30.0,0.7,4.2
+Joueur 06,Club C,MF,0.25,0.45,1.80,55.0,1.8,2.5
+Joueur 07,Club D,MF,0.15,0.30,1.20,62.0,2.4,1.6
+Joueur 08,Club D,MF,0.10,0.55,0.90,70.0,2.0,2.1
+Joueur 09,Club E,MF,0.20,0.25,1.50,48.0,3.1,1.4
+Joueur 10,Club E,MF,0.08,0.20,0.70,75.0,3.5,0.9
+Joueur 11,Club F,MF,0.18,0.38,1.40,58.0,2.2,3.0
+Joueur 12,Club F,MF,0.05,0.15,0.50,68.0,3.8,0.7
+Joueur 13,Club G,DF,0.04,0.08,0.60,45.0,3.9,0.5
+Joueur 14,Club G,DF,0.06,0.12,0.80,52.0,3.2,1.1
+Joueur 15,Club H,DF,0.03,0.05,0.40,60.0,4.2,0.4
+Joueur 16,Club H,DF,0.10,0.18,1.00,50.0,2.8,1.8
+Joueur 17,Club A,DF,0.02,0.06,0.30,65.0,4.5,0.3
+Joueur 18,Club B,FW,0.55,0.22,3.40,19.0,0.4,2.2
+Joueur 19,Club D,MF,0.22,0.42,1.60,52.0,1.9,2.9
+Joueur 20,Club F,DF,0.07,0.14,0.90,47.0,3.0,1.3
