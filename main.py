@@ -1,3 +1,4 @@
+import matplotlib.pyplot as plt
 from similarity import charger_donnees, standardiser, joueurs_similaires
 from visualisation import radar_comparaison
 
@@ -13,5 +14,6 @@ print(resultats)
 
 # Radar entre le joueur de référence et son plus proche voisin
 plus_proche = resultats.iloc[0]["name"]
-radar_comparaison(df, z_cols, NOM_JOUEUR, plus_proche,
-                  chemin_sortie="radar.png")
+fig = radar_comparaison(df, z_cols, NOM_JOUEUR, plus_proche,
+                        chemin_sortie="radar.png")
+plt.show()

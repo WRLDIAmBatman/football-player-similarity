@@ -38,4 +38,4 @@ def radar_comparaison(df, z_cols, nom_1, nom_2, chemin_sortie=None):
 
     if chemin_sortie:
         fig.savefig(chemin_sortie, dpi=150, bbox_inches="tight")
-    plt.show()
+        return fig
